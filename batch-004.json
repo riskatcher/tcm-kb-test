@@ -1,0 +1,76 @@
+{
+  "batchId": "test-004",
+  "count": 10,
+  "sentences": [
+    {
+      "id": 1858500,
+      "original": "據研究人類闌尾具有B淋巴細胞和T淋巴細胞，相當于鳥類的腔上囊的結構，應歸于中樞免疫器官，擔負著機體的細胞免疫和體液免疫兩大特異功能。",
+      "reading_ko": null,
+      "book": "putongwaikexue-普通外科學",
+      "category": "서의-xiyi-西醫"
+    },
+    {
+      "id": 3922586,
+      "original": "〔解說〕采用正立背靠墻姿勢，不息，行氣，（功法詳見本節討論）運用意識導氣，使內氣從頭至足而止。",
+      "reading_ko": null,
+      "book": "yangshengdaoyinfa-養生導引法",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2240890,
+      "original": "（4）擦汗：屈肘，翻臂肘尖朝上，做肘向前額擦汗動作，反復數十次。",
+      "reading_ko": null,
+      "book": "ziwotiaoyangqiaozhibing-自我調養巧治病",
+      "category": "수책-shouce-手冊"
+    },
+    {
+      "id": 3358737,
+      "original": "蔥白（四莖） 干姜（一兩） 附子（生用，去皮，破八片，一枚） 人尿（五合） 豬膽汁（一合）",
+      "reading_ko": null,
+      "book": "shanbumingyifanglun-刪補名醫方論",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 1856677,
+      "original": "大量的國內外回顧性調查和分析提示：乳腺癌根治切除或擴大根治切除并不能有效地提高病人的五年或十年生存率，而對病人的生理和心理的致殘卻是明顯的；",
+      "reading_ko": null,
+      "book": "putongwaikexue-普通外科學",
+      "category": "서의-xiyi-西醫"
+    },
+    {
+      "id": 2006650,
+      "original": "andMorrelli:Clinical pharmacology.",
+      "reading_ko": null,
+      "book": "yaolixue-藥理學",
+      "category": "서의-xiyi-西醫"
+    },
+    {
+      "id": 1686085,
+      "original": "③毒素：菌細胞表面的多糖毒素和另一種被稱為“念珠菌毒素”可能是致病的因素；",
+      "reading_ko": null,
+      "book": "jiyinzhenduanyuxingchuanbojibing-基因診斷與性傳播疾病",
+      "category": "서의-xiyi-西醫"
+    },
+    {
+      "id": 3092973,
+      "original": "兩君所著書皆堪傳世，張氏所輯者，俱已授梓行世，甫及百年，流傳日少。",
+      "reading_ko": null,
+      "book": "lvshantangleibian-侶山堂類辯",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2082405,
+      "original": "藥品分析前，應對其外形特征如：色、嗅、味、批號、包裝等情況進行說細觀查。",
+      "reading_ko": null,
+      "book": "yiyuanyaoxue-醫院藥學",
+      "category": "서의-xiyi-西醫"
+    },
+    {
+      "id": 100092,
+      "original": "由于現代工業的興起和發展，環境污染日益嚴重，它正在威脅著人類的健康，影響著居民的體質。",
+      "reading_ko": null,
+      "book": "zhongyijichulilun-中醫基礎理論",
+      "category": "교재-jiaocai-教材"
+    }
+  ]
+}

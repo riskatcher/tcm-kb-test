@@ -1,0 +1,76 @@
+{
+  "batchId": "test-008",
+  "count": 10,
+  "sentences": [
+    {
+      "id": 202951,
+      "original": "①淀粉粒眾多，類圓形或橢圓形，多單粒，復粒由2-3粒組成，較少，臍點呈空洞狀。",
+      "reading_ko": null,
+      "book": "본초-bencao-中華本草",
+      "category": "본초"
+    },
+    {
+      "id": 4665453,
+      "original": "又如周身風熱燥郁，或為目瘴，癰疽瘡瘍，上為喘嗽，下為痿痹，或停積而濕熱內甚，不能傳化者，變水腫腹脹也。",
+      "reading_ko": null,
+      "book": "zhengzhizhunshengleifang-證治準繩·類方",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 4775350,
+      "original": "照海、主四肢淫濼．身悶．陰暴起疝．（千）大敦、主卒疝暴痛．陰跳上入腹．寒疝．陰挺出偏大腫．臍腹中悒悒不樂．小便難而痛．灸刺立已．左取右．右取左．（甲云．照海主之．）",
+      "reading_ko": null,
+      "book": "zhenjiuzishengjing-針灸資生經",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2209337,
+      "original": "而且多為疾病危重的信號，故探索其早期先兆對及時控制抽搐，治療原發病皆有重要意義。",
+      "reading_ko": null,
+      "book": "zhongyijibingyuce-中醫疾病預測",
+      "category": "수책-shouce-手冊"
+    },
+    {
+      "id": 2400613,
+      "original": "五味子斂耗散之肺金，滋涸竭之腎水，二治之外，原無多治法也，然子既求功于二者之外，我尚有一法以廣其功。",
+      "reading_ko": null,
+      "book": "bencaoxinbian-本草新編",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2456705,
+      "original": "然私竇既開，漏卮易泄，不亟清其上游之源，而但截其下流之隙，非計之善也。",
+      "reading_ko": null,
+      "book": "bianzhenglu-辨證錄",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2933271,
+      "original": "敗醬（血凝者宜之，惜敗醬之難覓也） 當歸（各八分） 川芎 芍藥 桂心（各六分）",
+      "reading_ko": null,
+      "book": "jiyingangmu-濟陰綱目",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2799038,
+      "original": "乃去犀角、甘草梢、丹皮、滑石、木通，加砂仁拌炒熟地、山楂炭，服之漸安，半月而愈。",
+      "reading_ko": null,
+      "book": "huichunlu-回春錄",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2798923,
+      "original": "既不宜潤，更不可下，以中虛開闔無權，恐一開而不復闔，將何如耶。",
+      "reading_ko": null,
+      "book": "huichunlu-回春錄",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 902232,
+      "original": "拉丁植物動物礦物名：Bauhinia championii(Benth.",
+      "reading_ko": null,
+      "book": "본초-cidian-中藥大辭典",
+      "category": "본초"
+    }
+  ]
+}

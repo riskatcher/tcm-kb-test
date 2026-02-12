@@ -1,0 +1,76 @@
+{
+  "batchId": "test-010",
+  "count": 10,
+  "sentences": [
+    {
+      "id": 1198486,
+      "original": "四肢粗健，前后足均具5趾，前足腕墊寬大與掌墊相連，后足跖墊亦寬大且肥厚，前寬后窄，內側中部無毛間隔。",
+      "reading_ko": null,
+      "book": "본초-cidian-中藥大辭典",
+      "category": "본초"
+    },
+    {
+      "id": 3062637,
+      "original": "熟地（八兩） 麥冬（二兩） 茯神（二兩） 五味（二兩） 線膠（四兩） 川斛膏（四兩） 沙苑（二兩） 遠志（一兩） 芡實（三兩） 湖蓮（三兩） 金櫻膏丸。",
+      "reading_ko": null,
+      "book": "linzhengzhinanyian-臨證指南醫案",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 1840030,
+      "original": "這些問題是由水下高壓引起，在使用壓縮空氣的隧道或在沉箱（用于水下建筑工程施工的密閉箱體）中工作的人也受到同樣的影響。",
+      "reading_ko": null,
+      "book": "mokejiatingzhenliaoshouce-默克家庭診療手冊",
+      "category": "서의-xiyi-西醫"
+    },
+    {
+      "id": 4902731,
+      "original": "所謂熱因寒引者，如用熱藥佐以辛涼，則由表達里，榮衛和而熱者不燥。",
+      "reading_ko": null,
+      "book": "zhoushenzhaiyishu-周慎齋遺書",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 3607698,
+      "original": "”在少陽陽明的這樣一個前提下，提出了發汗、利小便，這就說明發汗、利小便與少陽陽明的產生是有關聯的。",
+      "reading_ko": null,
+      "book": "sikaozhongyi-思考中醫",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 1760458,
+      "original": "依據是①在正常情況下，參考實驗室所得數值往往和質控結果的均值相似。",
+      "reading_ko": null,
+      "book": "linchuangshengwuhuaxue-臨床生物化學",
+      "category": "서의-xiyi-西醫"
+    },
+    {
+      "id": 4424827,
+      "original": "愛因斯坦相對論，謂引力場和電磁場，其實是一個東西，只須用一種公律，便支配了他們兩個云云。",
+      "reading_ko": null,
+      "book": "yuanyundongdeguzhongyixue-圓運動的古中醫學",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 124204,
+      "original": "掌面用一夾板托住腕部，勿使關節活動，用頸腕吊帶固定胸前３到５天，去除固定后，用中藥熏洗，同時配合功能練習。",
+      "reading_ko": null,
+      "book": "zhongyishangkeanmoxue-中醫傷科按摩學",
+      "category": "교재-jiaocai-教材"
+    },
+    {
+      "id": 141609,
+      "original": "總之，秋季時節，可適當食用如芝麻、糯米、粳米、蜂蜜、枇杷、菠蘿、乳品等柔潤食物，以益胃生津，有益于健康。",
+      "reading_ko": null,
+      "book": "zhongyiyangshengxue-中醫養生學",
+      "category": "교재-jiaocai-教材"
+    },
+    {
+      "id": 2894169,
+      "original": "此痙病之屬陽明瘀熱者．陽明之筋起于足．結于跗．其直者上結于髀．陽明之脈．入齒中．挾口環唇．其支者．循喉嚨．入缺盆下膈．故為是諸證．然無燥實見證．自宜滌熱而勿蕩實．乃不用調胃而用大承氣者．豈病深熱極．非此不能治歟．然曰可與．則猶有斟酌之意．用者慎之．",
+      "reading_ko": null,
+      "book": "jinkuiyaolvexindian-金匱要略心典",
+      "category": "저작-zhuzuo-著作"
+    }
+  ]
+}

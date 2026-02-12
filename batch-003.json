@@ -1,0 +1,76 @@
+{
+  "batchId": "test-003",
+  "count": 10,
+  "sentences": [
+    {
+      "id": 3004155,
+      "original": "凡傷寒后，及大病后、產后勞怯等癥，俱有寒熱往來，或一日一二發，俱宜作虛治。",
+      "reading_ko": null,
+      "book": "leizhengzhicai-類證治裁",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2211679,
+      "original": "異常的汗出在生命垂危時常常是重要的信號，如脫汗、又稱絕汗、是陰陽離決的征兆，絕汗在《內經》里早有記載。",
+      "reading_ko": null,
+      "book": "zhongyijibingyuce-中醫疾病預測",
+      "category": "수책-shouce-手冊"
+    },
+    {
+      "id": 3383600,
+      "original": "邪雖入里．而尖白未黃．不可用承氣．宜大柴胡湯加減．下后無他證．安臥神清．可生．倘再有變證．多兇．",
+      "reading_ko": null,
+      "book": "shanghanshejian-傷寒舌鑒",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2541332,
+      "original": "至長不瘥者，名爛弦風眼，內以桑葉、菊花、生地、甘草、燈芯，長流水煎服。",
+      "reading_ko": null,
+      "book": "erkecuijing-兒科萃精",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 2051879,
+      "original": "多見于彌漫性間質肺炎、塵肺、特發性肺間質纖維化、放射性肺炎、組織細胞增大癥及結締組織病等。",
+      "reading_ko": null,
+      "book": "yixueyingxiangxue-醫學影像學",
+      "category": "서의-xiyi-西醫"
+    },
+    {
+      "id": 470925,
+      "original": "葉互生，多為偶數羽狀復葉，少有奇數羽狀復葉，長8-16cm，葉軸兩側有狹翅，小葉10-28枚，長圓形至長橢圓狀披針形，長8-12cm，寬2-3cm，先端鈍圓或短尖，基部偏斜，邊緣有細鋸齒，表面有細小的疣狀突起，中脈和側脈腋內有1簇極短的星狀毛。",
+      "reading_ko": null,
+      "book": "본초-bencao-中華本草",
+      "category": "본초"
+    },
+    {
+      "id": 4143984,
+      "original": "經云∶大腸病者，腸中切痛而鳴濯濯，感于寒即泄，當臍而痛，取巨虛、上廉是也。",
+      "reading_ko": null,
+      "book": "yixuegangmu-醫學綱目",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 3149277,
+      "original": "余曰∶胸乳脹痛，肝經血虛，肝氣痞塞也四肢不收，肝經血虛，不能養筋也；",
+      "reading_ko": null,
+      "book": "mingyizazhe-明醫雜著",
+      "category": "저작-zhuzuo-著作"
+    },
+    {
+      "id": 222345,
+      "original": "韌型纖維直徑13-36&mu;m，壁厚3-10&mu;m，有的壁具斜向條狀增厚。",
+      "reading_ko": null,
+      "book": "본초-bencao-中華本草",
+      "category": "본초"
+    },
+    {
+      "id": 3303018,
+      "original": "或舊磚燒紅，一陣臭淘米水淬入，乘熱布包三塊，用膝夾住，棉被蓋緊，冷則隨換，三五次愈。",
+      "reading_ko": null,
+      "book": "qixiaojianbianliangfang-奇效簡便良方",
+      "category": "저작-zhuzuo-著作"
+    }
+  ]
+}
