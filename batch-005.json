@@ -1,76 +1,52 @@
-{
-  "batchId": "test-005",
-  "count": 10,
-  "sentences": [
-    {
-      "id": 2843653,
-      "original": "風則浮虛，寒則牢堅，沉潛水 ，支飲急弦，動則為痛，數則熱煩，設有不應，知變所緣。",
-      "reading_ko": null,
-      "book": "jingyuequanshu-景岳全書",
-      "category": "저작-zhuzuo-著作"
-    },
-    {
-      "id": 3534403,
-      "original": "寒瀉者，腹痛而喜手按摩，口不干而舌滑，喜熱湯不喜冷凍飲料，又不可用瀉火之湯，五苓散可也，然而五苓尚欠補也。",
-      "reading_ko": null,
-      "book": "shishimilu-石室秘錄",
-      "category": "저작-zhuzuo-著作"
-    },
-    {
-      "id": 4191914,
-      "original": "旋復花四分，荊芥八分，麻黃、前胡各六分，甘草、赤芍、半夏各二分，姜三片，棗一枚，水煎。",
-      "reading_ko": null,
-      "book": "yixuerumen-醫學入門",
-      "category": "저작-zhuzuo-著作"
-    },
-    {
-      "id": 1887677,
-      "original": "由二磷酸核苷酸激酶(mucleosidediphosphafe kinase)，催化與催化NDP磷酸化的反應相似。",
-      "reading_ko": null,
-      "book": "shengwuhuaxueyufenzishengwuxue-生物化學與分子生物學",
-      "category": "서의-xiyi-西醫"
-    },
-    {
-      "id": 1455634,
-      "original": "為玄參科婆婆屬植物仙桃草Veronica peregrina L.",
-      "reading_ko": null,
-      "book": "본초-huibian-全國中草藥匯編",
-      "category": "본초"
-    },
-    {
-      "id": 208472,
-      "original": "2-4cm，先端漸尖，基部楔形，邊緣具細鋸齒，上面綠色，沿葉脈有稀疏細剛毛，下面無毛。",
-      "reading_ko": null,
-      "book": "본초-bencao-中華本草",
-      "category": "본초"
-    },
-    {
-      "id": 4922123,
-      "original": "大生地 元參 麥冬肉 象貝母 白歸身 石決明 生白芍 阿膠 地骨皮 炒竹茹 炙青蒿",
-      "reading_ko": null,
-      "book": "zhuquanshengnvkejiyao-竹泉生女科集要",
-      "category": "저작-zhuzuo-著作"
-    },
-    {
-      "id": 1687006,
-      "original": "②肝臟：易被侵犯，增大變硬，重量達體重1/8-1/10（正常者為1/30）。",
-      "reading_ko": null,
-      "book": "jiyinzhenduanyuxingchuanbojibing-基因診斷與性傳播疾病",
-      "category": "서의-xiyi-西醫"
-    },
-    {
-      "id": 1675131,
-      "original": "X線檢查可見多個邊界纖細的圓形或橢圓陰影，壁較薄，周圍組織無浸潤。",
-      "reading_ko": null,
-      "book": "huxibingxue-呼吸病學",
-      "category": "서의-xiyi-西醫"
-    },
-    {
-      "id": 3957071,
-      "original": "《心法》曰∶狐尿刺由螳螂盛暑交媾，精汁染于竹木諸物，于久有毒，人手足誤觸之，則成此患。",
-      "reading_ko": null,
-      "book": "yangyidaquan-瘍醫大全",
-      "category": "저작-zhuzuo-著作"
-    }
-  ]
-}
+[
+  {
+    "id": 2843653,
+    "original": "風則浮虛，寒則牢堅，沉潛水 ，支飲急弦，動則為痛，數則熱煩，設有不應，知變所緣。",
+    "book": "景岳全書"
+  },
+  {
+    "id": 3534403,
+    "original": "寒瀉者，腹痛而喜手按摩，口不干而舌滑，喜熱湯不喜冷凍飲料，又不可用瀉火之湯，五苓散可也，然而五苓尚欠補也。",
+    "book": "石室秘錄"
+  },
+  {
+    "id": 4191914,
+    "original": "旋復花四分，荊芥八分，麻黃、前胡各六分，甘草、赤芍、半夏各二分，姜三片，棗一枚，水煎。",
+    "book": "醫學入門"
+  },
+  {
+    "id": 1887677,
+    "original": "由二磷酸核苷酸激酶(mucleosidediphosphafe kinase)，催化與催化NDP磷酸化的反應相似。",
+    "book": "生物化學與分子生物學"
+  },
+  {
+    "id": 1455634,
+    "original": "為玄參科婆婆屬植物仙桃草Veronica peregrina L.",
+    "book": "본초-huibian-全國中草藥匯編"
+  },
+  {
+    "id": 208472,
+    "original": "2-4cm，先端漸尖，基部楔形，邊緣具細鋸齒，上面綠色，沿葉脈有稀疏細剛毛，下面無毛。",
+    "book": "본초-bencao-中華本草"
+  },
+  {
+    "id": 4922123,
+    "original": "大生地 元參 麥冬肉 象貝母 白歸身 石決明 生白芍 阿膠 地骨皮 炒竹茹 炙青蒿",
+    "book": "竹泉生女科集要"
+  },
+  {
+    "id": 1687006,
+    "original": "②肝臟：易被侵犯，增大變硬，重量達體重1/8-1/10（正常者為1/30）。",
+    "book": "基因診斷與性傳播疾病"
+  },
+  {
+    "id": 1675131,
+    "original": "X線檢查可見多個邊界纖細的圓形或橢圓陰影，壁較薄，周圍組織無浸潤。",
+    "book": "呼吸病學"
+  },
+  {
+    "id": 3957071,
+    "original": "《心法》曰∶狐尿刺由螳螂盛暑交媾，精汁染于竹木諸物，于久有毒，人手足誤觸之，則成此患。",
+    "book": "瘍醫大全"
+  }
+]
